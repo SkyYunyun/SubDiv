@@ -1,19 +1,19 @@
 # SubDiv
 A pipeline for subgenome dividing
 
-#Purpose
+# Purpose
 SubDiv pipeline is used for subgenome division within polyploid genomes
 
-#Features
+# Features
 The using of this pipeline is very sample and easy, and the running time in the test is less than one day.
 
 The mutiple CPUs running is supported and suggested, which enable the analysis completed within several hours.
 
-#Install
+# Install
 
 The SubDiv need not install processing and users who want to use this pipeline just need to download the three scripts (two Python scripts and one R script) to your workplace or somewhere else.
 
-#Usage
+# Usage
 
 The flowing of running as the like as the examples of "work.example.sh"
 ###################
