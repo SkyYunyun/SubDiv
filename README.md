@@ -11,7 +11,7 @@ The mutiple CPUs running is supported and suggested, which enable the analysis c
 
 # Install
 
-The SubDiv need not install processing and users who want to use this pipeline just need to download the three scripts (two Python scripts and one R script) to your workplace or somewhere else.
+The SubDiv does not need install processing and users who want to use this pipeline just need to download the three scripts (two Python scripts and one R script) to your workplace or somewhere else.
 
 # Usage
 
