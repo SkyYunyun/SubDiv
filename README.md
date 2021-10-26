@@ -15,6 +15,14 @@ The SubDiv need not install processing and users who want to use this pipeline j
 
 # Usage
 
+Before you use this pipeline for subgenome dividing, make sure 'makeblastdb' and 'blastn' can be find in your envionmental path. If not, please add them to your path by
+
+export PATH=/Path/to/your/makeblastdb-blastn:$PATH
+
+The R package 'factoextra' had been installed in your R project and Rscript command should be able to use in the window. If not, please add Rscript path to your environment by
+
+export PATH=/Path/to/your/Rscript:$PATH
+
 The flowing of running as the like as the examples of "work.example.sh"
 
 ###################
