@@ -1,5 +1,5 @@
 # SubDiv
-A pipeline for subgenome dividing
+A pipeline for subgenome dividing within polyploid genomes
 
 # Purpose
 SubDiv pipeline is used for subgenome division within polyploid genomes
